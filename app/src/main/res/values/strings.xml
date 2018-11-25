@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="icon_name">Ikona</string>
+    <string name="login_label">Login:</string>
+    <string name="password_label">Password:</string>
+    <string name="repeat_password_label">Repeat password:</string>
+    <string name="login_button">Log in</string>
+    <string name="registration_text">Registration</string>
+    <string name="button_proceed">Proceed</string>
+    <string name="not_a_user_text">Not a user yet?</string>
+    <string name="register_button">Register</string>
+</resources>
